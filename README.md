@@ -1,4 +1,4 @@
-<!-- 🦇 YUVRAJ SAINI — GitHub Profile README -->
+<!-- YUVRAJ SAINI — GitHub Profile README -->
 
 <div align="center">
 
@@ -11,42 +11,43 @@
    ╚═╝    ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
 
-# 🦇 YUVRAJ SAINI
+# YUVRAJ SAINI
 
-**`> backend dev · python · ai/ml explorer · b.tech cs(iot) '27`**
+**`> backend · python · iot · ai/ml · b.tech cs(iot) '27 · jaipur, india`**
 
-*"It's not who I am underneath, but what I **build** that defines me."*
+*"I am not afraid of the dark. I build in it."*
+> *— systems don't wait for daylight.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saini-yuvraj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Saini-26)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.am.yuvraj.0307@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Python%20%7C%20AI--ML-FFD700?style=for-the-badge&logoColor=black)](mailto:i.am.yuvraj.0307@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Python%20%7C%20AI--ML-white?style=for-the-badge)](mailto:i.am.yuvraj.0307@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 whoami
+## whoami
 
 ```python
 class Yuvraj:
-    name       = "Yuvraj Saini"
     college    = "PIET Jaipur — B.Tech CS (IoT) | Batch of 2027"
     cgpa       = 8.5
-    location   = "Jaipur, Rajasthan 🇮🇳"
+    location   = "Jaipur, Rajasthan, India"
     interests  = ["Backend Dev", "Python", "Full Stack", "AI/ML", "Data Science"]
     seeking    = "Paid Internships · Full-time Roles"
 
-    def fun_fact(self):
-        return "I debug at midnight. I ship by morning. 🦇"
+    def approach(self):
+        return "I don't just study systems. I break them open and rebuild them better."
 ```
 
-Hey, I'm Yuvraj — a CS (IoT) undergrad at PIET Jaipur obsessed with building things that **actually solve real problems**.
-I've shipped REST APIs used by real users, done research at **IIT Guwahati**, and got a paper published — all before my 3rd year.
+CS (IoT) undergrad at **PIET Jaipur**, batch of 2027. Research intern at **IIT Guwahati**. Published author. API builder.
+The kind of engineer who ships before most people finish planning.
+Currently targeting **Backend · Python · Full Stack · AI/ML internships** — paid, purposeful, worth the fight.
 
 ---
 
-## ⚡ Tech Arsenal
+## tech arsenal
 
 **Languages**
 
@@ -63,14 +64,14 @@ I've shipped REST APIs used by real users, done research at **IIT Guwahati**, an
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
-## 🔭 Currently Learning
+## currently learning
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -78,37 +79,38 @@ I've shipped REST APIs used by real users, done research at **IIT Guwahati**, an
 
 ---
 
-## 💼 Experience
+## experience
 
-### 🔬 Undergraduate Research Intern — MARS-LAB, IIT Guwahati
-`Jul 2025 – Aug 2025` · Guwahati, Assam
+### MARS-LAB · IIT Guwahati
+`Undergraduate Research Intern` &nbsp;|&nbsp; `Jul 2025 – Aug 2025` &nbsp;|&nbsp; Guwahati, Assam
 
 - Evaluated **5+ lightweight IoT security protocols** for resource-constrained embedded devices — benchmarking tradeoffs in overhead, latency & reliability
-- Implemented & benchmarked secure communication protocols in **ns-3 network simulator**, achieving **~30% reduction in packet overhead** via optimized transmission logic
+- Implemented secure communication protocols in **ns-3 network simulator** → **~30% reduction in packet overhead** via optimized transmission logic
 
 ---
 
-### 🐍 Advanced Python Intern — Grras Solutions Pvt. Ltd
-`May 2024 – Jul 2024` · Jaipur, Rajasthan
+### Grras Solutions Pvt. Ltd
+`Advanced Python Intern` &nbsp;|&nbsp; `May 2024 – Jul 2024` &nbsp;|&nbsp; Jaipur, Rajasthan
 
-- Built & deployed **Flask-based REST APIs** integrating third-party IRCTC API for live train data — handled JSON parsing, error fallback, response caching
+- Built & deployed **Flask-based REST APIs** integrating third-party IRCTC API for live train data — JSON parsing, error fallback, response caching
 - Designed **MySQL schemas** supporting **10K+ records** with optimized query performance
 
 ---
 
-## 🚀 Projects
+## projects
 
-### 🚂 Chuk Chuk Chaser &nbsp; `Flask` `REST API` `MySQL` `IRCTC API` `Render`
+### CHUK CHUK CHASER &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-3fb950?style=flat-square&logo=render&logoColor=white)](https://chuk-chuk-chaser.onrender.com)
+
+`Flask` &nbsp;`REST API` &nbsp;`MySQL` &nbsp;`IRCTC API` &nbsp;`Render`
 
 > Real-time train tracking app solving PNR status & live location visibility for **13M+ daily Indian rail travelers**
 
 - Engineered **8+ REST endpoints** with IRCTC integration, error fallback & caching — **sub-2s response time** under variable API conditions
 - Deployed on **Render** with responsive mobile-friendly UI — zero downtime since launch
-- [![Live Demo](https://img.shields.io/badge/Live%20Demo-3fb950?style=flat-square&logo=render&logoColor=white)](#) *(add your link here)*
 
 ---
 
-## 📄 Publication
+## publication
 
 > **Saini, Y., et al. (2025).** Tackling Water Hardness for Sustainable Development.
 > *Journal of Water Pollution & Purification Research, Vol. 12(3).*
@@ -116,41 +118,27 @@ I've shipped REST APIs used by real users, done research at **IIT Guwahati**, an
 
 ---
 
-## 🏅 Certifications
+## certifications
 
-- 🌐 **Google Cloud** — Introduction to Generative AI *(Beginner Certification)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj-Saini-26&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Saini-26&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yuvraj-Saini-26&theme=github-dark-blue&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
-
-</div>
+- **Google Cloud** — Introduction to Generative AI *(Beginner Certification)*
 
 ---
 
-## 🎖️ Leadership
+## leadership
 
 | Role | Organization | Period |
 |---|---|---|
-| 🎮 Vice Captain | Gaming & Development Club, PIET | 2023 – 2024 |
-| ⚡ Member | IEEE Student Chapter, PIET | 2024 – 2026 |
+| Vice Captain | Gaming & Development Club, PIET | 2023 – 2024 |
+| Member | IEEE Student Chapter, PIET | 2024 – 2026 |
 
 ---
 
 <div align="center">
 
-**`[ Open to: Backend · Python · Full Stack · AI/ML · DS Internships & Full-time Roles ]`**
+**`[ open to work · backend · python · full stack · ai/ml · ds ]`**
 
-*The Dark Knight is always building. 🦇*
+*systems don't wait for daylight.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Yuvraj-Saini-26&color=FFD700&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Yuvraj-Saini-26&color=ffffff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
