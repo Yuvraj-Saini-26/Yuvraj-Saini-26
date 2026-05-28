@@ -27,7 +27,7 @@
 
 ---
 
-## whoami
+## who_am_i
 
 ```python
 class Yuvraj:
@@ -103,12 +103,24 @@ Currently targeting **Backend · Python · Full Stack · AI/ML internships** —
 
 ### CHUK CHUK CHASER &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-3fb950?style=flat-square&logo=render&logoColor=white)](https://chuk-chuk-chaser.onrender.com)
 
-`Flask` &nbsp;`REST API` &nbsp;`MySQL` &nbsp;`IRCTC API` &nbsp;`Render`
+`Flask` &nbsp;`REST API` &nbsp;`IRCTC API` &nbsp;`Render`
 
 > Real-time train tracking app solving PNR status & live location visibility for **13M+ daily Indian rail travelers**
 
 - Engineered **8+ REST endpoints** with IRCTC integration, error fallback & caching — **sub-2s response time** under variable API conditions
 - Deployed on **Render** with responsive mobile-friendly UI — zero downtime since launch
+
+---
+
+### AI AUTOMATED CHATBOT &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-3fb950?style=flat-square&logo=n8n&logoColor=white)](https://github.com/Yuvraj-Saini-26/Ai-Automated_Assistant)   
+
+`Python` `n8n` `Gorq API` `Google API` 
+
+> AI-powered workflow automation chatbot enabling intelligent conversations, task execution & scalable automation pipelines
+
+- Engineered modular AI workflows with webhook-based orchestration & external tool execution
+- Integrated Streamlit, scheduling automation & API handling with scalable backend architecture
+- Built reusable n8n automation pipelines with real-time response handling & workflow management
 
 ---
 
