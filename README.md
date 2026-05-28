@@ -112,7 +112,7 @@ Currently targeting **Backend · Python · Full Stack · AI/ML internships** —
 
 ---
 
-### AI AUTOMATED CHATBOT &nbsp; [![Github](https://img.shields.io/badge/Live%20Demo-3fb950?style=flat-square&logo=n8n&logoColor=white)](https://github.com/Yuvraj-Saini-26/Ai-Automated_Assistant)   
+### AI AUTOMATED CHATBOT &nbsp; [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=n8n&logoColor=white)](https://github.com/Yuvraj-Saini-26/Ai-Automated_Assistant)  
 
 `Python` `n8n` `Gorq API` `Google API` 
 
