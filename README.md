@@ -15,8 +15,6 @@
 
 **`> backend · python · iot · ai/ml · b.tech cs(iot) '27 · jaipur, india`**
 
-*"I am not afraid of the dark. I build in it."*
-> *— systems don't wait for daylight.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saini-yuvraj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Saini-26)
@@ -151,7 +149,6 @@ Currently targeting **Backend · Python · Full Stack · AI/ML internships** —
 
 **`[ open to work · backend · python · full stack · ai/ml · ds ]`**
 
-*systems don't wait for daylight.*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Yuvraj-Saini-26&color=ffffff&style=flat-square&label=PROFILE+VIEWS)
 
